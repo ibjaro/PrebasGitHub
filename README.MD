@@ -5,3 +5,5 @@ publicado diretamente desde Visual
 Studio Code.
 
 Lo modifique con VSCode.
+
+Lo modifique con bash.
